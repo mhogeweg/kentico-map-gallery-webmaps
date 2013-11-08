@@ -1,6 +1,6 @@
 #kentico-map-gallery-webmaps
 
-Kentico CMS webpart that enables including map galleries and other ArcGIS Online/Portal for ArcGIS in a Kentico site.
+Kentico CMS webpart that enables including map galleries and other content from ArcGIS Online/Portal for ArcGIS in a Kentico site.
 
 ## Features
 
